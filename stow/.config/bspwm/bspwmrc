@@ -19,7 +19,7 @@ bspc config gapless_monocle      true
 sxhkd &
 picom &
 #polybar &./../../../Recursos/images/
-feh --bg-scale ~/.dotfile/Recursos/image/girlProgramming.png &
+feh --bg-scale ~/.dotfile/Recursos/images/girlProgramming.png &
 kitty --hold neofetch &
 kitty --hold cmatrix &
 kitty --hold htop &
